@@ -1,0 +1,7 @@
+@Print
+	flameshot gui
+#@Print
+#    ~/.local/bin/screenshot select
+
+#shift+@Print
+#    ~/.local/bin/screenshot freeze
