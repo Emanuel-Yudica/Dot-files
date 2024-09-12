@@ -1,0 +1,6 @@
+[2024-09-11 16:24:29.015]	 List of discovered tpm plugins: 
+[2024-09-11 16:24:29.030]	 Invoking /home/manu/.tmux/plugins/tpm/bin/install_plugins
+[2024-09-11 16:24:29.071]	 Installing "minimal-tmux-status"
+[2024-09-11 16:24:30.077]	   "minimal-tmux-status" download success
+[2024-09-11 16:24:30.093]	 Done.
+
